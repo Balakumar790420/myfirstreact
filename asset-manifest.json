@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myfirstreact/static/css/main.344af473.css",
+    "main.js": "/myfirstreact/static/js/main.3b9fcb41.js",
+    "static/media/jacket.jpg": "/myfirstreact/static/media/jacket.0322c1acb3dd30352da4.jpg",
+    "static/media/3.jpg": "/myfirstreact/static/media/3.01273529915f56282764.jpg",
+    "static/media/2.jpg": "/myfirstreact/static/media/2.0837bdc1dcc4858441fa.jpg",
+    "static/media/costume.jpg": "/myfirstreact/static/media/costume.70de02bb3460c15cce2a.jpg",
+    "static/media/Dress2.jpg": "/myfirstreact/static/media/Dress2.7eae3991cc3404af4fb2.jpg",
+    "static/media/DressRack.jpg": "/myfirstreact/static/media/DressRack.f20d15762a856e1e7109.jpg",
+    "static/media/laptop.png": "/myfirstreact/static/media/laptop.a36e42c713aa12ab95d7.png",
+    "static/media/wallpaper.jpg": "/myfirstreact/static/media/wallpaper.17ff14b6172469d58f9e.jpg",
+    "static/media/baseball.jpg": "/myfirstreact/static/media/baseball.d0682d80062f85a5f085.jpg",
+    "static/media/logo2.png": "/myfirstreact/static/media/logo2.4cdb1d559acf7c7ae3b7.png",
+    "static/media/PinkDress.jpg": "/myfirstreact/static/media/PinkDress.8a0ee0aa01825147450f.jpg",
+    "static/media/shipping.png": "/myfirstreact/static/media/shipping.e0e01f94903a5d6b31ac.png",
+    "static/media/white.avif": "/myfirstreact/static/media/white.f0dd14d7d45afcfbe2ee.avif",
+    "static/media/yellow.webp": "/myfirstreact/static/media/yellow.46e1897b048e1b5c2254.webp",
+    "index.html": "/myfirstreact/index.html",
+    "main.344af473.css.map": "/myfirstreact/static/css/main.344af473.css.map",
+    "main.3b9fcb41.js.map": "/myfirstreact/static/js/main.3b9fcb41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.344af473.css",
+    "static/js/main.3b9fcb41.js"
+  ]
+}
